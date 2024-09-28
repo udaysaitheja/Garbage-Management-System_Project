@@ -35,7 +35,7 @@ e. Logout
 
 4. Software Requirement
 3.1 Software Required
-• Operating System : Linux/Ubuntu/Mac/Windows XP, 7, 8, 8.1, 10
+• Operating System : Linux/Ubuntu/Mac/Windows XP, 7, 8, 8.1, 10, 11
 • Frontend : HTML, CSS, Bootstrap, JavaScript
 • Backend : PHP, MySQL
 • Local host : XAMPP/WAMP/LAMP/MAMP
